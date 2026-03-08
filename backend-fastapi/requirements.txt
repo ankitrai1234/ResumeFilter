@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+python-multipart
+redis
+rq
+qdrant-client
+sentence-transformers
+pymupdf
+langchain-text-splitters
+langchain-huggingface
